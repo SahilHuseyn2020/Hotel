@@ -1,0 +1,242 @@
+.ALO ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 40px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.ALO {
+  text-align: right;
+}
+
+.ALO:hover {
+  color: green;
+}
+
+.Sahil img {
+  width: 1400px;
+  height: 720px;
+}
+
+.Sahil img {
+  position: relative;
+}
+
+.Ayla {
+  position: absolute;
+  bottom: 18%;
+  right: 50%;
+  color: wheat;
+}
+
+.Ayla h2 {
+  color: green;
+}
+
+.Ayla h1 {
+  font-size: 50px;
+}
+
+.Ayla p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.Sahil img {
+  position: relative;
+}
+
+.Soon ul li {
+  display: inline-block;
+}
+
+.Soon {
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  font-size: 12px;
+}
+
+.Soon li {
+  background-color: white;
+  width: 250px;
+  margin: 13px;
+  padding: 6px;
+}
+
+.Cool h2 {
+  color: white;
+  background-color: green;
+  text-align: right;
+  padding: 20px;
+  width: 200px;
+  margin-left: 280px;
+  margin-top: 60px;
+  cursor: pointer;
+}
+
+.ALOO {
+  text-align: center;
+}
+
+.world {
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  padding: 10px;
+  text-align: center;
+  margin: 30px;
+  cursor: pointer;
+  color: gray;
+}
+
+.world img {
+  width: 100%;
+  height: 190px;
+}
+
+.world:hover {
+  opacity: 0.5;
+}
+
+.world h4 {
+  color: green;
+}
+
+.Soul {
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  padding: 10px;
+  text-align: center;
+  margin: 30px;
+  cursor: pointer;
+  color: gray;
+}
+
+.Soul img {
+  width: 100%;
+  height: 190px;
+}
+
+.Soul h4 {
+  color: green;
+}
+
+.Soul:hover {
+  opacity: 0.5;
+}
+
+.Lala img {
+  width: 1360px;
+  height: 480px;
+  opacity: 0.5;
+}
+
+.Lala img {
+  position: relative;
+}
+
+.Lola {
+  position: absolute;
+  top: 330%;
+  left: 37%;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Lola i:hover {
+  color: green;
+}
+
+.Lola h2 {
+  background-color: green;
+  width: 150px;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 80px;
+}
+
+.Lola p:hover {
+  color: green;
+}
+
+.woow {
+  text-align: center;
+  margin: 40px;
+}
+
+.zoom {
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  color: gray;
+}
+
+.zoom i {
+  color: green;
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.sun {
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  color: gray;
+}
+
+.sun i {
+  color: green;
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.lol {
+  text-align: center;
+  margin: 40px;
+}
+
+.Rome img {
+  width: 100%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+.Rome {
+  margin-left: 150px;
+  color: grey;
+  display: inline-block;
+}
+
+.Rome i {
+  color: green;
+  margin-right: 10px;
+}
+
+.Rome h2 {
+  font-size: 20px;
+}
+
+.Rome h3 {
+  text-align: right;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+.hhhngh {
+  display: inline-block;
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */
